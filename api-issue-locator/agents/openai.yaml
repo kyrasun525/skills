@@ -1,4 +1,4 @@
 interface:
-  display_name: "API Issue Locator"
+  display_name: "通过接口定位问题"
   short_description: "Read-only API issue investigation skill"
-  default_prompt: "Use $api-issue-locator to investigate an API issue without making any code or configuration changes."
+  default_prompt: "Use $通过接口定位问题 to investigate an API issue without making any code or configuration changes."
