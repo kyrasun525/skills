@@ -1,4 +1,0 @@
-interface:
-  display_name: "API Issue Locator"
-  short_description: "Read-only API issue investigation skill"
-  default_prompt: "Use $api-issue-locator to investigate an API issue without making any code or configuration changes."
